@@ -17,7 +17,7 @@ This project explores the use of deep learning and traditional machine learning 
 ## 📂 Contents
 
 - `CHU_Hayden_Wild_Life_Img_Classification_CNN_Final.ipynb` – Main Jupyter notebook for model training, evaluation, and visualization.
-- `data/` – Directory for training, validation, and test datasets (not included in repo due to size). Links to data are provided in Jupyter notebook
+- `Data/` – Directory for training, validation, and test datasets (not included in repo due to size). Links to data are provided in Jupyter notebook and in a file located in Data folder
 - `assets/` – Model architecture diagrams, performance graphs, and prediction visualizations.
 - `report.docx` – Final paper summarizing methodology, results, and discussion.
 - `presentation.pptx` – Project summary slides (4–5 minute oral presentation).
